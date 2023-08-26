@@ -1,6 +1,6 @@
 <center> @KEYS
 ----------
-### I am currently working on getting a PyCharm License to continue this Development. 
+### I am currently working on getting a PyCharm License to continue this Development. I AM ACTIVELY LOOKING FOR PARTNERS/CONTRIBUTERS TO HELP ALSO SO PLEASE REACH OUT<3
 
 # This project entitles the use of a CyberSecurity Suite/Teaching system along with much more to Discord Users.
 
