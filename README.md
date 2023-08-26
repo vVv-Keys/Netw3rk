@@ -1,8 +1,9 @@
-I am currently working on getting a PyCharm License to continue this Development. 
+<center> 
+### I am currently working on getting a PyCharm License to continue this Development. 
 
-This project entitles the use of a CyberSecurity Suite/Teaching system along with much more to Discord Users.
+# This project entitles the use of a CyberSecurity Suite/Teaching system along with much more to Discord Users.
 
-I will begin to incorporate the Main.PY once I get some more confirmation from JetBrain if I can get a License to proceed with this project.
+# I will begin to incorporate the Main.PY once I get some more confirmation from JetBrain if I can get a License to proceed with this project.
 
 ## Some features currently working on incorporating or incorporated already:
 
@@ -107,10 +108,9 @@ Security Logs: Implement detailed security logs to record all security-related e
 
 Security Incident Response Plan: Develop a well-defined incident response plan with clear roles and responsibilities.
 ```
+![image](https://github.com/Ceilo/Netw3rk/assets/49612041/ee31ad0d-3123-4b64-8326-fd2de6bba2d2)
 
-## You can request a DEMO or check them out within my Discord Community: # https://discord.gg/4AF4EjdhSx
+## You can request a DEMO or check them out within my Discord Community: # https://discord.gg/4AF4EjdhSx 
 # This is only small scale compared to where this project needs to go, if you see this and find this interesting and would like to contribute, feel free to join the community and @ me. The more the merrier :) 
-
-<center> ![image](https://github.com/Ceilo/Netw3rk/assets/49612041/e35ec7ec-d46e-4dfb-bcfb-a34bea317fce)
 </center>
-<center> https://discord.gg/4AF4EjdhSx </center>
+
