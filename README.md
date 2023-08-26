@@ -4,9 +4,10 @@ This project entitles the use of a CyberSecurity Suite/Teaching system along wit
 
 I will begin to incorporate the Main.PY once I get some more confirmation from JetBrain if I can get a License to proceed with this project.
 
-## Some features currently included and working:
+## Some features currently working on incorporating or incorporated already:
 
-``Real-time Threat Intelligence Integration: Integrate with threat intelligence feeds to identify known malicious IPs, domains, and URLs.
+```
+Real-time Threat Intelligence Integration: Integrate with threat intelligence feeds to identify known malicious IPs, domains, and URLs.
 
 Dynamic Whitelisting: Implement dynamic whitelisting of trusted IPs, domains, and users to reduce false positives.
 
@@ -104,7 +105,8 @@ Security Headers: Implement security headers (e.g., Content Security Policy, HTT
 
 Security Logs: Implement detailed security logs to record all security-related events for auditing and analysis.
 
-Security Incident Response Plan: Develop a well-defined incident response plan with clear roles and responsibilities.``
+Security Incident Response Plan: Develop a well-defined incident response plan with clear roles and responsibilities.
+```
 
-You can request a DEMO or check them out within my Discord Community: # https://discord.gg/4AF4EjdhSx
-`
+## You can request a DEMO or check them out within my Discord Community: # https://discord.gg/4AF4EjdhSx
+# This is only small scale compared to where this project needs to go, if you see this and find this interesting and would like to contribute, feel free to join the community and @ me. The more the merrier :) 
