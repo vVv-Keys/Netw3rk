@@ -112,10 +112,13 @@ Security Headers: Implement security headers (e.g., Content Security Policy, HTT
 Security Logs: Implement detailed security logs to record all security-related events for auditing and analysis.
 
 Security Incident Response Plan: Develop a well-defined incident response plan with clear roles and responsibilities.
+
+MANY MANY MORE TO COME!
 ```
 ![image](https://github.com/Ceilo/Netw3rk/assets/49612041/ee31ad0d-3123-4b64-8326-fd2de6bba2d2)
 
 ## You can request a DEMO or check them out within my Discord Community: # https://discord.gg/4AF4EjdhSx 
 # This is only small scale compared to where this project needs to go, if you see this and find this interesting and would like to contribute, feel free to join the community and @ me. The more the merrier :) 
+
 </center>
 
