@@ -1,5 +1,3 @@
--- CHECK IT OUT ! ![image](https://github.com/Ceilo/Netw3rk/assets/49612041/bba58ace-d862-42af-9b7f-2c66bfddeab0)
-
 ```
 ██ ▄█▀▓█████▓██   ██▓  ██████ 
 ██▄█▒ ▓█   ▀ ▒██  ██▒▒██    ▒  
@@ -12,6 +10,10 @@
 ░  ░      ░  ░░ ░           ░  
               ░ ░ 
 ```
+
+![image](https://github.com/Ceilo/Netw3rk/assets/49612041/bba58ace-d862-42af-9b7f-2c66bfddeab0)
+
+
 
 <center> 
 
