@@ -1,3 +1,5 @@
+<center>
+
 ```
 ██ ▄█▀▓█████▓██   ██▓  ██████ 
 ██▄█▒ ▓█   ▀ ▒██  ██▒▒██    ▒  
@@ -15,7 +17,7 @@
 
 
 
-<center> 
+
 
 ----------
 
@@ -125,11 +127,12 @@ Security Incident Response Plan: Develop a well-defined incident response plan w
 
 MANY MANY MORE TO COME!
 ```
-![image](https://github.com/Ceilo/Netw3rk/assets/49612041/ee31ad0d-3123-4b64-8326-fd2de6bba2d2)
 
 
 
-</center>
+
+
 
 # THIS PROJECT IS COMPLETE 
 - FOR INQUIRIES, TESTING, OR CONTRIBUTIONS PLEASE Contact vVv-Keys on GitHub
+</center>
